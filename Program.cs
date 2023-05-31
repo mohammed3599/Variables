@@ -7,6 +7,7 @@ namespace Variables
     {
         static void Main(string[] args)
         {
+           //printing values of differen data types
            int p = 1;
            char x = 'a';
            double u = 2.3;
@@ -18,6 +19,8 @@ namespace Variables
             Console.WriteLine(z);
             Console.WriteLine(p +""+ x);
             Console.WriteLine(p +""+ p);
+
+           // calculation of these variables
           // *********************************************** 
             int o = 4; int c = 5;
             int d = 6; int e = 7;
@@ -28,6 +31,7 @@ namespace Variables
             int h = g - f;
             Console.WriteLine(h);
 
+            // taking values from the user
             // *************************************************
             
             Console.WriteLine("Enter the first number: ");
@@ -44,6 +48,8 @@ namespace Variables
             Console.WriteLine(a % b);
             Console.WriteLine(b % a);
 
+
+            // Swaping values of variables
             // ******************************************************
             int i = 0;
             int j = 1;
