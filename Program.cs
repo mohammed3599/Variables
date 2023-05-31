@@ -7,7 +7,7 @@ namespace Variables
     {
         static void Main(string[] args)
         {
-           /*int p = 1;
+           int p = 1;
            char x = 'a';
            double u = 2.3;
            string y = "hello";
@@ -42,7 +42,7 @@ namespace Variables
             Console.WriteLine(b / a);
             Console.WriteLine(a * b);
             Console.WriteLine(a % b);
-            Console.WriteLine(b % a);*/
+            Console.WriteLine(b % a);
 
             // ******************************************************
             int i = 0;
